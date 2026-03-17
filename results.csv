@@ -1,0 +1,4 @@
+nodes,baseline_cost,constraint_cost,baseline_switches,constraint_switches,baseline_time_sec,constraint_time_sec
+20,391,542,6,4,5.0041,5.0013
+50,544,813,8,4,5.0017,5.0017
+100,790,1264,12,6,5.0011,5.0011
